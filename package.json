@@ -1,0 +1,9 @@
+{
+  "name": "encrypted-vault",
+  "private": true,
+  "description": "Cross-platform encrypted vault scripts for macOS and Windows",
+  "scripts": {
+    "git:push": "bash scripts/git-push-with-pat.sh",
+    "check:macos": "bash -n scripts/macos/*.sh"
+  }
+}

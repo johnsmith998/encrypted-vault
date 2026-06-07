@@ -1,0 +1,40 @@
+Commercial License Agreement (Template)
+========================================
+
+Copyright (c) 2026 johnsmith998
+
+This template summarizes typical Commercial License terms. The executed
+agreement may differ. Contact via [COMMERCIAL.md](COMMERCIAL.md).
+
+---
+
+1. Grant
+   Licensor grants Licensee a non-exclusive, non-transferable (unless agreed)
+   license to use the Software for the Scope defined in the Order Form / email
+   confirmation.
+
+2. Scope
+   As negotiated: e.g. OEM embedding, SaaS deployment, enterprise seats,
+   support hours, or geographic limits.
+
+3. Fees
+   As stated in the Order Form. Unless otherwise agreed, fees are non-refundable.
+
+4. Support & warranty
+   Only if explicitly included in the Order Form. Otherwise Software is provided
+   "AS IS" similar to MIT.
+
+5. Restrictions
+   Licensee shall not remove copyright notices from source copies. No trademark
+   use beyond what is expressly permitted.
+
+6. Term & termination
+   As stated in the Order Form. On termination, Licensee must cease use outside
+   MIT-permitted retention (if any).
+
+7. Governing law
+   To be specified in the executed agreement.
+
+---
+
+To request a Commercial License, see [COMMERCIAL.md](COMMERCIAL.md).

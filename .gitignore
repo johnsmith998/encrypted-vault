@@ -1,0 +1,17 @@
+# 切勿把加密保险库提交到 Git
+*.sparsebundle/
+*.dmg
+*.sparseimage
+*.hc
+
+# 本地路径配置（可能含个人目录）
+vault.location
+
+# 本地密钥（勿提交）
+.env.local
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
