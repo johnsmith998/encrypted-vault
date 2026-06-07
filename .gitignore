@@ -10,6 +10,9 @@ vault.location
 # 本地密钥（勿提交）
 .env.local
 
+# 维护者本机笔记（含私人路径，不公开）
+开发者指南.md
+
 # macOS
 .DS_Store
 

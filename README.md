@@ -127,4 +127,4 @@ For paid products, hosted services, or a written enterprise agreement, see **[CO
 
 详见 [docs/README.zh-CN.md](docs/README.zh-CN.md)。
 
-**继续开发 / 上传 GitHub：** 见 [开发指南.md](开发指南.md)（含「未找到保险库」排查与两条初始化路线）。
+**维护 / 贡献 / 推送：** 见 [docs/CONTRIBUTING.zh-CN.md](docs/CONTRIBUTING.zh-CN.md)。
