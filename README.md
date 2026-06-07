@@ -100,14 +100,16 @@ vault.location     # local path (gitignored)
 
 ## Push to GitHub
 
-1. Copy `.env.example` → `.env.local` and set `GITHUB_REPO` + `GITHUB_TOKEN` (classic PAT, `repo` scope).
-2. Create the remote repo on GitHub, then:
+Remote: `https://github.com/johnsmith998/encrypted-vault.git`
+
+1. Copy `.env.example` → `.env.local` and set `GITHUB_TOKEN` (classic PAT, `repo` scope; `GITHUB_REPO` is already filled).
+2. Push updates:
 
 ```bash
-git add .
-git commit -m "Initial commit: encrypted vault scripts for macOS and Windows"
 npm run git:push
 ```
+
+Or with SSH (if configured): `git push origin main`
 
 ## License
 
